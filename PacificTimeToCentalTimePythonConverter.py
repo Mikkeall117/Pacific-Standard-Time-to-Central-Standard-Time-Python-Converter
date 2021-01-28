@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
-print("Welcome to my first program!")
-print("This program converts Pacific Standard Time to Central Standard Time")
+print("This program converts Pacific Standard Time to Central Standard Time.")
 
 timeOfDay = 501
 
